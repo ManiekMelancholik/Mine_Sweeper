@@ -1,0 +1,10 @@
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\bin\Debug\MySaper.exe.config
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\bin\Debug\MySaper.exe
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\bin\Debug\MySaper.pdb
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.csprojAssemblyReference.cache
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.Form1.resources
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.Properties.Resources.resources
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.csproj.GenerateResource.cache
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.csproj.CoreCompileInputs.cache
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.exe
+C:\Users\RasaK_000\Desktop\CV\QuickRoute\MySaper\obj\Debug\MySaper.pdb
